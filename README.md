@@ -1,3 +1,3 @@
 Ramonki
 
-test run comand: npm run test   
+test run comand: npx playwright test
